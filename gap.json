@@ -1,0 +1,6 @@
+{
+  "name":"life",
+  "path": "/life",
+  "definition": "Life must include any observer able to communicate information via an accepted protocol.",
+  "dependencies": ["io"]
+}
